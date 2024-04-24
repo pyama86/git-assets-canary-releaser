@@ -1,5 +1,6 @@
 test:
 	mkdir -p tmp
+	go mod tidy
 	go test ./... -coverprofile=coverage.out -covermode=count
 
 ci: lint test
