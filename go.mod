@@ -1,12 +1,13 @@
 module github.com/pyama86/git-assets-canary-releaser
 
 go 1.23.2
+toolchain go1.24.1
 
 require (
 	github.com/avast/retry-go v3.0.0+incompatible
 	github.com/go-playground/validator/v10 v10.26.0
 	github.com/google/go-github/v55 v55.0.0
-	github.com/k1LoW/go-github-client/v55 v55.0.13
+	github.com/k1LoW/go-github-client/v55 v55.0.17
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/redis/go-redis/v9 v9.8.0
@@ -21,11 +22,11 @@ require (
 
 require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230217124315-7d5c6f04bbb8 // indirect
-	github.com/bradleyfalzon/ghinstallation/v2 v2.12.0 // indirect
+	github.com/bradleyfalzon/ghinstallation/v2 v2.15.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/cli/go-gh/v2 v2.11.1 // indirect
+	github.com/cli/go-gh/v2 v2.12.0 // indirect
 	github.com/cli/safeexec v1.0.0 // indirect
-	github.com/cloudflare/circl v1.5.0 // indirect
+	github.com/cloudflare/circl v1.6.1 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
@@ -33,8 +34,8 @@ require (
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
-	github.com/google/go-github/v66 v66.0.0 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
+	github.com/google/go-github/v71 v71.0.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
@@ -53,9 +54,9 @@ require (
 	github.com/subosito/gotenv v1.6.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect
-	golang.org/x/crypto v0.33.0 // indirect
-	golang.org/x/net v0.34.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
-	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/crypto v0.37.0 // indirect
+	golang.org/x/net v0.39.0 // indirect
+	golang.org/x/sys v0.32.0 // indirect
+	golang.org/x/text v0.24.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
