@@ -12,7 +12,7 @@ require (
 	github.com/redis/go-redis/v9 v9.17.1
 	github.com/samber/slog-multi v1.6.0
 	github.com/samber/slog-slack/v2 v2.7.3
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	github.com/stretchr/testify v1.11.1
 	github.com/tj/assert v0.0.3
