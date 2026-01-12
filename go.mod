@@ -10,7 +10,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/redis/go-redis/v9 v9.17.2
-	github.com/samber/slog-multi v1.6.0
+	github.com/samber/slog-multi v1.7.0
 	github.com/samber/slog-slack/v2 v2.7.3
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
