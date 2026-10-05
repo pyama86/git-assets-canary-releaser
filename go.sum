@@ -59,8 +59,8 @@ github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0U
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2s0bqwp9tc8=
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
-github.com/k1LoW/go-github-client/v55 v55.0.23 h1:HOg0GGhWg1W24/5CFQXmLW7zNlglBeZEuOl8vG1UUCM=
-github.com/k1LoW/go-github-client/v55 v55.0.23/go.mod h1:KsO7hVHDmanlcX4vYGqXHczSCrscbY48jDzq2YhE65Y=
+github.com/k1LoW/go-github-client/v55 v55.0.24 h1:YWiRomu3BHsDSqbo3baYUosXFqbm13JkdspYseSAByc=
+github.com/k1LoW/go-github-client/v55 v55.0.24/go.mod h1:+X2PsdZE5uDykkZVRAW/X4tGFT3htIMcinIoSHAUzRA=
 github.com/klauspost/cpuid/v2 v2.2.10 h1:tBs3QSyvjDyFTq3uoc/9xFpCuOsJQFNPiAhYdw2skhE=
 github.com/klauspost/cpuid/v2 v2.2.10/go.mod h1:hqwkgyIinND0mEev00jJYCxPNVRVXFQeu1XKlok6oO0=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
